@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="autobot">
+</Property><Property Name="솔루션 파일" Value="\\211.227.151.177\09 환경모니터링\autobot\autobot.sln">
+</Property><Property Name="사용자 옵션 파일" Value="\\211.227.151.177\09 환경모니터링\autobot\autobot.suo">
+</Property><Property Name="Date" Value="2009년 3월 26일 목요일">
+</Property><Property Name="Time" Value="오후 12:49">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="autobot.sln" Description="파일을 \\211.227.151.177\09 환경모니터링\autobot\Backup\autobot.sln(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="" Source="autobot.suo" Description="파일을 \\211.227.151.177\09 환경모니터링\autobot\Backup\autobot.suo(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="Autobot" Source="WindowsApplication1\Autobot.csproj" Description="프로젝트 파일을 \\211.227.151.177\09 환경모니터링\autobot\Backup\WindowsApplication1\Autobot.csproj(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="Autobot" Source="WindowsApplication1\CreateRFMessages.cs" Description="파일을 \\211.227.151.177\09 환경모니터링\autobot\Backup\WindowsApplication1\CreateRFMessages.cs(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="Autobot" Source="WindowsApplication1\DeviceSelector.cs" Description="파일을 \\211.227.151.177\09 환경모니터링\autobot\Backup\WindowsApplication1\DeviceSelector.cs(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="Autobot" Source="WindowsApplication1\message.cs" Description="파일을 \\211.227.151.177\09 환경모니터링\autobot\Backup\WindowsApplication1\message.cs(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="Autobot" Source="WindowsApplication1\Form1.cs" Description="파일을 \\211.227.151.177\09 환경모니터링\autobot\Backup\WindowsApplication1\Form1.cs(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="Autobot" Source="WindowsApplication1\Form1.Designer.cs" Description="파일을 \\211.227.151.177\09 환경모니터링\autobot\Backup\WindowsApplication1\Form1.Designer.cs(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="Autobot" Source="WindowsApplication1\Program.cs" Description="파일을 \\211.227.151.177\09 환경모니터링\autobot\Backup\WindowsApplication1\Program.cs(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="Autobot" Source="WindowsApplication1\Properties\AssemblyInfo.cs" Description="파일을 \\211.227.151.177\09 환경모니터링\autobot\Backup\WindowsApplication1\Properties\AssemblyInfo.cs(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="Autobot" Source="WindowsApplication1\Properties\Resources.Designer.cs" Description="파일을 \\211.227.151.177\09 환경모니터링\autobot\Backup\WindowsApplication1\Properties\Resources.Designer.cs(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="Autobot" Source="WindowsApplication1\Properties\Settings.Designer.cs" Description="파일을 \\211.227.151.177\09 환경모니터링\autobot\Backup\WindowsApplication1\Properties\Settings.Designer.cs(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="Autobot" Source="WindowsApplication1\cam.cs" Description="파일을 \\211.227.151.177\09 환경모니터링\autobot\Backup\WindowsApplication1\cam.cs(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="Autobot" Source="WindowsApplication1\cam.Designer.cs" Description="파일을 \\211.227.151.177\09 환경모니터링\autobot\Backup\WindowsApplication1\cam.Designer.cs(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="Autobot" Source="WindowsApplication1\Properties\Settings.settings" Description="파일을 \\211.227.151.177\09 환경모니터링\autobot\Backup\WindowsApplication1\Properties\Settings.settings(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="Autobot" Source="WindowsApplication1\cam.resx" Description="파일을 \\211.227.151.177\09 환경모니터링\autobot\Backup\WindowsApplication1\cam.resx(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="Autobot" Source="WindowsApplication1\Form1.resx" Description="파일을 \\211.227.151.177\09 환경모니터링\autobot\Backup\WindowsApplication1\Form1.resx(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="Autobot" Source="WindowsApplication1\Properties\Resources.resx" Description="파일을 \\211.227.151.177\09 환경모니터링\autobot\Backup\WindowsApplication1\Properties\Resources.resx(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="Autobot" Source="WindowsApplication1\Autobot.csproj" Description="프로젝트를 변환했습니다.">
+</Event><Event ErrorLevel="3" Project="Autobot" Source="WindowsApplication1\Autobot.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="autobot.sln" Description="솔루션을 변환했습니다.">
+</Event><Event ErrorLevel="3" Project="" Source="autobot.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Autobot" Source="WindowsApplication1\Autobot.csproj" Description="검사 완료: 프로젝트 파일을 업그레이드할 필요가 없습니다.">
+</Event></UpgradeLog>
